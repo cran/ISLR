@@ -39,7 +39,7 @@
 %%  ~~ reference to a publication or URL from which the data were obtained ~~
 }
 \references{
-  Games, G., Witten, D., Hastie, T., and Tibshirani, R. (2013)
+  James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013)
   \emph{An Introduction to Statistical Learning with applications in R},
   \url{www.StatLearning.com},
   Springer-Verlag, New York

@@ -24,7 +24,7 @@ missing values were removed.}
 \source{This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. The dataset was used in the 1983 American Statistical Association Exposition.
 }
 \references{
-  Games, G., Witten, D., Hastie, T., and Tibshirani, R. (2013)
+  James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013)
   \emph{An Introduction to Statistical Learning with applications in R},
   \url{www.StatLearning.com},
   Springer-Verlag, New York

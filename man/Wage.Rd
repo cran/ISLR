@@ -4,17 +4,16 @@
 \title{Mid-Atlantic Wage Data
 %%   ~~ data name/kind ... ~~
 }
-\description{Wage and other data for a group of 3000 workers in the
+\description{Wage and other data for a group of 3000 male workers in the
   Mid-Atlantic region. 
 %%  ~~ A concise (1-5 lines) description of the dataset. ~~
 }
 \usage{Wage}
 \format{
-  A data frame with 3000 observations on the following 12 variables.
+  A data frame with 3000 observations on the following 11 variables.
   \describe{
     \item{\code{year}}{Year that wage information was recorded}
     \item{\code{age}}{Age of worker}
-    \item{\code{sex}}{Gender}
     \item{\code{maritl}}{A factor with levels \code{1. Never Married}
       \code{2. Married} \code{3. Widowed} \code{4. Divorced} and
       \code{5. Separated} indicating marital status}
@@ -44,7 +43,7 @@
 %%  ~~ reference to a publication or URL from which the data were obtained ~~
 }
 \references{
-  Games, G., Witten, D., Hastie, T., and Tibshirani, R. (2013)
+  James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013)
   \emph{An Introduction to Statistical Learning with applications in R},
   \url{www.StatLearning.com},
   Springer-Verlag, New York

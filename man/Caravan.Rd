@@ -27,7 +27,7 @@
   Science Technical Report 2000-09. June 22, 2000. See
   http://www.liacs.nl/~putten/library/cc2000/\cr
   P. van der Putten and M. van Someren. A Bias-Variance Analysis of a Real World Learning Problem: The CoIL Challenge 2000. Machine Learning, October 2004, vol. 57, iss. 1-2, pp. 177-195, Kluwer Academic Publishers\cr
-  Games, G., Witten, D., Hastie, T., and Tibshirani, R. (2013)
+  James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013)
   \emph{An Introduction to Statistical Learning with applications in R},
   \url{www.StatLearning.com},
   Springer-Verlag, New York
