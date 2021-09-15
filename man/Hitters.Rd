@@ -48,7 +48,7 @@
 \references{
   James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013)
   \emph{An Introduction to Statistical Learning with applications in R},
-  \url{www.StatLearning.com},
+  \url{https://www.statlearning.com},
   Springer-Verlag, New York
 }
 \examples{

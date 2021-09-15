@@ -33,11 +33,11 @@
     \item{\code{wage}}{Workers raw wage}
   }
 }
-\source{Data was manually assembled by Steve Miller, of Open BI
-  (www.openbi.com), from the March 2011 Supplement to Current Population
+\source{Data was manually assembled by Steve Miller, of Inquidia
+  Consulting (formerly Open BI). From the March 2011 Supplement to Current Population
   Survey data.
   
-\url{http://thedataweb.rm.census.gov/TheDataWeb}
+\url{https://www.re3data.org/repository/r3d100011860}
   
 
 %%  ~~ reference to a publication or URL from which the data were obtained ~~
@@ -45,7 +45,7 @@
 \references{
   James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013)
   \emph{An Introduction to Statistical Learning with applications in R},
-  \url{www.StatLearning.com},
+  \url{https://www.statlearning.com},
   Springer-Verlag, New York
 }
 \examples{

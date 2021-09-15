@@ -14,7 +14,7 @@
   A data frame with 10000 observations on the following 4 variables.
   \describe{
     \item{\code{ID}}{Identification}
-    \item{\code{Income}}{Income in $10,000's}    
+    \item{\code{Income}}{Income in $1,000's}    
     \item{\code{Limit}}{Credit limit}
     \item{\code{Rating}}{Credit rating}
     \item{\code{Cards}}{Number of credit cards}
@@ -38,7 +38,7 @@
 \references{
   James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013)
   \emph{An Introduction to Statistical Learning with applications in R},
-  \url{www.StatLearning.com},
+  \url{https://www.statlearning.com},
   Springer-Verlag, New York
 }
 \examples{
